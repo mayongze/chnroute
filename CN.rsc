@@ -3677,6 +3677,7 @@ add list=domestic address=140.250.0.0/16 comment=AS4809
 add list=domestic address=140.255.0.0/16 comment=AS4809
 add list=domestic address=141.229.14.0/23 comment=AS4809
 add list=domestic address=141.229.20.0/23 comment=AS4809
+add list=domestic address=141.229.84.0/23 comment=AS4809
 add list=domestic address=142.86.0.0/16 comment=AS4809
 add list=domestic address=143.64.0.0/16 comment=AS4809
 add list=domestic address=144.0.0.0/16 comment=AS4809
